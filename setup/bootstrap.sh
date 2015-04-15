@@ -4,4 +4,7 @@ sudo update-alternatives --set libblas.so.3 /usr/lib/atlas-base/atlas/libblas.so
 sudo update-alternatives --set liblapack.so.3 /usr/lib/atlas-base/atlas/liblapack.so.3
 sudo apt-get -y install python-matplotlib
 sudo easy_install pip
+
+su vagrant <<'EOF'
 pip install --user --install-option="--prefix=" -U scikit-learn
+EOF
