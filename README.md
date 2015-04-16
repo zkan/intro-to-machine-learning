@@ -2,7 +2,7 @@
 Introduction to Machine Learning
 
 ## Installation Notes
-This tutorial is using the following packages:
+This tutorial uses the following packages:
 
 - Python version 2.7.6
 - `numpy` version 1.9.2
