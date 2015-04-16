@@ -1,3 +1,4 @@
 .DS_Store
 .vagrant
 .pyc
+.ipynb_checkpoints
