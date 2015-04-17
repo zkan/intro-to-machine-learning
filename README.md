@@ -1,6 +1,8 @@
 # Introduction to Machine Learning
 Introduction to Machine Learning
 
+The code in this repository is inspired by [Scikit Learn](http://scikit-learn.org/).
+
 ## Installation Notes
 This tutorial uses the following packages:
 
