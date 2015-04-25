@@ -15,4 +15,4 @@ This tutorial uses the following packages:
 
 Alternatively, check [Installing scikit-learn](http://scikit-learn.org/dev/install.html) out. It provides a good instruction to get scikit-learn installed in different ways.
 
-I also provide a `Vagrantfile` with a bootstrap script in case someone wants to try on an Ubuntu box.
+I also provide a `Vagrantfile` with a bootstrap script in case someone wants to try on an Ubuntu box. However, please note that the Vagrant box doesn't support any graphic stuff, so you'll need to remove or comment the code being used to generate the plots before run the code.
