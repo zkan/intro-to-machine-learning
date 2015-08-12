@@ -1,5 +1,4 @@
 # Introduction to Machine Learning
-Introduction to Machine Learning
 
 The code in this repository is inspired by [Scikit Learn](http://scikit-learn.org/) and [From Data With Love](http://fromdatawithlove.thegovans.us/2013/05/clustering-using-scikit-learn.html).
 
