@@ -3,6 +3,7 @@
 The code in this repository is inspired by [Scikit Learn](http://scikit-learn.org/) and [From Data With Love](http://fromdatawithlove.thegovans.us/2013/05/clustering-using-scikit-learn.html).
 
 ## Installation Notes
+
 This tutorial uses the following packages:
 
 - Python version 2.7.6
