@@ -2,3 +2,4 @@
 .vagrant
 .pyc
 .ipynb_checkpoints
+venv
