@@ -15,7 +15,7 @@ This tutorial uses the following packages:
 - `scikit-learn` version 0.16.0
 - `ipython` version 4.0.0, with notebook support (version 4.0.1)
 
-You can also run `pip install -r requirements.txt` to install all required pacakges..
+You can also run `pipenv install` to install all required pacakges..
 
 Alternatively, check [Installing
 scikit-learn](http://scikit-learn.org/dev/install.html) out. It provides a good
